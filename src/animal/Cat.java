@@ -1,4 +1,4 @@
-package aniaml;
+package animal;
 
 public class Cat {
 	int age;
